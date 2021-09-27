@@ -1,0 +1,23 @@
+Q1. Whimsical Toys Inc (WTI) needs to record the names  of all its employees.
+  Every  month, an employee  will be chosen at random from these  records to receive  a free toy.
+
+
+Ans. 'List' would be best suited for this as we can traverse or loop across 0 to the end of the employee list (List) and 
+hence can do the random selection.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+Q2. WTI has decided that each new product will be named after an employee  but only first names  
+will be used,  and each name will be used  only once. Prepare  a list of unique  first names.
+
+Ans. It is quite self explanatory that the best consideration would be the 'Set' as it only contains the 
+unique/distinct values in it.
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
+Q3. WTI decides that it only wants to use  the most popular names  
+for its toys. Count up the number of employees  who have each first name.
+
+Ans.  Using the 'Map' Concept  we can deal with this problem statement as it has a property of 'Key-Value' pair
+and hence 'First Name' would be the key and the 'Number of Counts of Different Employees with the Same First Name' 
+would be acting as 'Values' for each first name.
